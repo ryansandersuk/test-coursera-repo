@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # test-coursera-repo
 
 ## heading 2
